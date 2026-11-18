@@ -27,7 +27,7 @@
 - Currently learning more about **software architecture and databases**.
 
 <p align="left">
-  <a href="mailto:esteban.larco110604@gmail.com"><img src="https://img.shields.io/badge/Gmail-esteban.larco110604-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:esteban.larco110604@gmail.com"><img src="https://img.shields.io/badge/Gmail-Esteban%20Larco-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/esteban-larco-66491843b"><img src="https://img.shields.io/badge/LinkedIn-Esteban%20Larco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -50,18 +50,23 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**AirportApp**](https://github.com/EMLarco/AirportApp) | Airport management application (flights, passengers, bookings). | <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&style=flat-square" /> |
-| [**SakilaApp**](https://github.com/EMLarco/SakilaApp) | Management app for the Sakila sample database. | <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&style=flat-square" /> |
-| [**GestorInventario**](https://github.com/EMLarco/GestorInventario) | Inventory management system for products and stock. | <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&style=flat-square" /> |
-| [**LifeScore**](https://github.com/EMLarco/LifeScore) | Web app that tracks a personal life score. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" /> |
-| [**weather-dashboard**](https://github.com/EMLarco/weather-dashboard) | Weather dashboard with current conditions and forecasts. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" /> |
-| [**Py1-G3-ASO**](https://github.com/EMLarco/Py1-G3-ASO) | DHCP, DNS, Web and FTP services on Proxmox VE. | <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=white&style=flat-square" /> |
+<p align="center">
+  <a href="https://github.com/EMLarco/AirportApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=AirportApp&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/EMLarco/SakilaApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=SakilaApp&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/EMLarco/GestorInventario"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=GestorInventario&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/EMLarco/LifeScore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=LifeScore&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/EMLarco/weather-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=weather-dashboard&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/EMLarco/Py1-G3-ASO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=Py1-G3-ASO&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 ---
 
-## GitHub Activity
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EMLarco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMLarco&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EMLarco&theme=tokyonight&hide_border=true" />
