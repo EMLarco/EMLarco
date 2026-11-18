@@ -26,8 +26,8 @@
 - 🌐 Me interesan la **infraestructura y redes**: he montado servicios DHCP, DNS, Web y FTP sobre **Proxmox VE**.
 - 🌱 Ahora mismo estoy aprendiendo más sobre **arquitectura de software y bases de datos**.
 - 📫 Contáctame: <!-- reemplaza con tu correo o LinkedIn -->
-  <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:esteban.larco110604@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/esteban-larco-66491843b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 
 ---
 
