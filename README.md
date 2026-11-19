@@ -28,7 +28,7 @@
 
 <p align="left">
   <a href="mailto:esteban.larco110604@gmail.com"><img src="https://img.shields.io/badge/Gmail-Esteban%20Larco-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/esteban-larco-66491843b"><img src="https://img.shields.io/badge/LinkedIn-Esteban%20Larco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/estebanlarco"><img src="https://img.shields.io/badge/LinkedIn-Esteban%20Larco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
