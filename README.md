@@ -56,7 +56,7 @@
   <a href="https://github.com/EMLarco/GestorInventario"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=GestorInventario&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" /></a>
   <a href="https://github.com/EMLarco/LifeScore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=LifeScore&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" /></a>
   <a href="https://github.com/EMLarco/weather-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=weather-dashboard&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" /></a>
-  <a href="https://github.com/EMLarco/Py1-G3-ASO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=Py1-G3-ASO&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" /></a>
+  <a href="https://github.com/EMLarco/Py1-G3-ASO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EMLarco&repo=proxmox-network-services&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" /></a>
 </p>
 
 ---
